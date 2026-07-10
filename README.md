@@ -23,4 +23,4 @@ Pull Requests werden geprüft – bitte vorher Issues erstellen.
 
 ## **Lizenz**
 
-*Copyright {year} Distalk. All rights reserved.*
+*Copyright © 2025–2026 DisTalk. Alle Rechte vorbehalten.*
