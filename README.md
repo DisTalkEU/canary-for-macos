@@ -23,4 +23,4 @@ Pull Requests werden geprüft – bitte vorher Issues erstellen.
 
 ## **Lizenz**
 
-*MIT License*
+*Copyright {year} Distalk. All rights reserved.*
