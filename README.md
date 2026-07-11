@@ -1,6 +1,6 @@
 # **DisTalk Canary – MacOS App**
 
-DisTalk Canary ist eine native MacOS-App, die das Web-Interface von [DisTalk Canary](https://canary.distalk.eu) in eine echte App-Erfahrung verwandelt. Es nutzt volle MacOS-Integration. DisTalk Canary ist eine Testplatform, wo neue Features zu finden sind und diese auch vorab testen zu können und uns ein Feedback geben zu können!
+DisTalk Canary ist eine native MacOS-App, die das Web-Interface von [DisTalk Canary](https://canary.distalk.app) in eine echte App-Erfahrung verwandelt. Es nutzt volle MacOS-Integration. DisTalk Canary ist eine Testplatform, wo neue Features zu finden sind und diese auch vorab testen zu können und uns ein Feedback geben zu können!
 
 ---
 
